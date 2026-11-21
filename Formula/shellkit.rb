@@ -5,9 +5,9 @@
 class Shellkit < Formula
   desc "Bash library and project scaffolding generator (Bash 3.2 baseline)"
   homepage "https://yi-nology.github.io/shellkit/"
-  version "1.5.0"
-  url "https://github.com/yi-nology/shellkit/releases/download/v1.5.0/shellkit-1.5.0.tar.gz"
-  sha256 "b10a0aacdf1cd4fded4db432fc10fd7cfb88f310bc0178c86a64f1e21b8a8e89"
+  version "1.6.0"
+  url "https://github.com/yi-nology/shellkit/releases/download/v1.6.0/shellkit-1.6.0.tar.gz"
+  sha256 "93c7c378cff1dd4581a986f10ba8e79f15ce43de5e4d6505a132873e5a14271c"
 
   def install
     # 库、模板、语言包、文档、skill 包 —— CLI 靠自己在旁边的目录里找它们
